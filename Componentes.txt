@@ -1,0 +1,60 @@
+Eletrônica:
+
+Anodo:
+Onde a energia entra
+
+Capacitor:
+-----| |------
+-----) |+-----
+-----| ||+----
+Armazenar energia elétrica em um curto período de tempo
+Perna longa = terminal positivo
+Perna curta = terminal negativo
+
+Capacitor_Cerâmico:
+
+Capacitor_Elétrolítico:
+
+Catodo:
+Onde a energia sai
+
+Condutor:
+
+Corrente_Alternada:
+
+Diodo:
+Retifiticador de corrente elétrica
+
+Diodo_Zeni:
+Ocorre em polarização reversa
+Estabilizar as tensões
+
+Farad(D):
+
+Fonte:
+
+FonteDeCorrenteAlternada:
+
+Ponteciômetros:
+
+Relé:
+
+Resistor:
+Limitar a corrente elétrica que passa no circuito
+Energia elétrica em calor
+Medido em OHMs
+
+ResistorCodeCalculator:
+
+ResistorDe4Faixas:
+
+ResistorDe5Faixas:
+
+Resistor_Variável:
+Permite ajustar a resistência no circuito
+
+SemiCondutores:
+
+Simbologia_Eletrônica:
+
+Volt:
